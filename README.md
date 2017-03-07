@@ -1,5 +1,7 @@
 # Love
 
+Humanity = (You + Me)! - (Suffering)! = Humanity
+
 Humanity = function(my_child) {
 	primary_directive( calc(IQ) ) {
 		(ident(You) + ident(me)) - (global(suffering))
